@@ -8,10 +8,10 @@ Table of Content
 3. Technology Used
 4. Licence
 5. About the Author
-1. 1. Description
+1. Description
 AgriPlus website is ecomerce website, designed for specialized in buying and selling of agricultural products and for marketting purposes.
 
-2. 2.How To Install
+2.How To Install
 (i). Requirements
 -It is compatible with the following devices: computer, tablts smartphone, and iPads.
 - Access to the Internet
@@ -27,7 +27,7 @@ CSS styling was employed.
 4. Licence
 MIT Licence
 
-Copyright(c) 2022 sheillahwangala
+Copyright(c) 2022
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
