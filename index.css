@@ -238,7 +238,7 @@ nav>ul>li>a:hover {
     color: blue;
     font-size: 35px;
 }
-#footlinks>li{
+#link>ol>div>li{
     list-style: none;
 }
 #dairy{
@@ -259,11 +259,11 @@ nav>ul>li>a:hover {
     display: flex;
     flex-direction: row;
 }
-#link>ol>li>a{
+#link>ol>div>li>a{
     color: white;
     text-decoration: none;
 }
-#link>ol>li>a:hover{
+#link>ol>div>li>a:hover{
     color: #ED661F;
     font-size: 20px;
 }
