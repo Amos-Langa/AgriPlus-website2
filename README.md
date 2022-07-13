@@ -1,5 +1,5 @@
 ## AgriPlus Website
-Writer: Sheillahwangala
+Writer: Amos Langat
 Table of Content
 1. Description
 2.How To Instal
